@@ -1,0 +1,5 @@
+id_lote,id_donante,categoria,descripcion,cantidad,unidad,peso_kg,volumen_m3,requiere_frio,fecha_expiracion,id_centro_acopio,asignado
+L01,D01,Insumos Médicos,Kits Quirúrgicos Triaje,500.00,unidades,250.00,2.00,1,2026-11-15,C01,1
+L02,D01,Agua Potable,Plantas Potabilizadoras,2000.00,litros,2000.00,4.00,0,2027-01-10,C02,1
+L03,D01,Víveres,Mercados No Perecederos,1500.00,kg,1500.00,3.00,0,2026-12-20,C03,0
+1,100,Kits refugio,Ropa,50.00,unidades,30.00,15.00,0,nunca,C01,0
